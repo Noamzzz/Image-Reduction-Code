@@ -1,6 +1,6 @@
 # Astronomical Data Reduction Pipeline
 
-This project implements a CCD data reduction pipeline in Python using FITS images.
+This project implements a CCD data reduction process in Python using FITS images.
 
 ## Overview
 
@@ -8,9 +8,9 @@ The goal is to calibrate raw astronomical images by removing instrumental effect
 
 The pipeline includes:
 - Bias correction
-- Dark current correction
+- Dark Frame correction
 - Flat-field correction
-- Construction of master calibration frames
+- Construction of master frames
 - Calibration of light images
 
 ![image alt](https://github.com/Noamzzz/Image-Reduction-Code/blob/d096739fbcd15374912adba057c7bc7814c24a2a/Workflow.png)
@@ -25,6 +25,7 @@ The dataset includes observations of:
 - numpy
 - matplotlib
 - astropy
+- shutils
 
 ## Author
 
