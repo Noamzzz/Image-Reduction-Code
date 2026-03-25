@@ -29,3 +29,11 @@ The dataset includes observations of:
 ## Author
 
 Noam Jansson
+
+## References
+
+- Amigo, P., & Toloza, O. (2026). *Actividad de clases 1: manejo de FITS en Python con Astropy*.  
+- [Astropy FITS Image Handling](https://docs.astropy.org/en/latest/io/fits/usage/image.html#scaled-data)  
+- [Astropy FITS Images Tutorial](https://learn.astropy.org/tutorials/FITS-images.html)  
+- [Matplotlib imshow Documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html)  
+- [Astropy Documentation](https://docs.astropy.org/en/latest/)  
