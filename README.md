@@ -13,7 +13,7 @@ The pipeline includes:
 - Construction of master calibration frames
 - Calibration of light images
 
-![image alt](https://github.com/Noamzzz/Image-Reduction-Code/blob/fa1ef88f1cbed8dbe33d7b73e550e9fc10d7173b/Work%20Flow.png)
+![image alt](https://github.com/Noamzzz/Image-Reduction-Code/blob/fa1ef88f1cbed8dbe33d7b73e550e9fc10d7173b/WorkFlow.png)
 
 The dataset includes observations of:
 - **NGC 3532** (open cluster)
